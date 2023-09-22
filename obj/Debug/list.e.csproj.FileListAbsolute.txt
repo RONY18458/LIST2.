@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Desktop\list\list.e\bin\Debug\list.e.exe.config
+C:\Users\ALUMNO\Desktop\list\list.e\bin\Debug\list.e.exe
+C:\Users\ALUMNO\Desktop\list\list.e\bin\Debug\list.e.pdb
+C:\Users\ALUMNO\Desktop\list\list.e\obj\Debug\list.e.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\list\list.e\obj\Debug\list.e.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Desktop\list\list.e\obj\Debug\list.e.Form1.resources
+C:\Users\ALUMNO\Desktop\list\list.e\obj\Debug\list.e.Properties.Resources.resources
+C:\Users\ALUMNO\Desktop\list\list.e\obj\Debug\list.e.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Desktop\list\list.e\obj\Debug\list.e.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\list\list.e\obj\Debug\list.e.exe
+C:\Users\ALUMNO\Desktop\list\list.e\obj\Debug\list.e.pdb

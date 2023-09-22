@@ -120,7 +120,7 @@
             // 
             this.txtapellidos.Location = new System.Drawing.Point(80, 74);
             this.txtapellidos.Name = "txtapellidos";
-            this.txtapellidos.Size = new System.Drawing.Size(145, 20);
+            this.txtapellidos.Size = new System.Drawing.Size(59, 20);
             this.txtapellidos.TabIndex = 1;
             // 
             // txtedad
@@ -142,27 +142,27 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(22, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(54, 13);
+            this.label1.Size = new System.Drawing.Size(49, 13);
             this.label1.TabIndex = 4;
-            this.label1.Text = "NOMBRE";
+            this.label1.Text = "CODIGO";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(10, 77);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(66, 13);
+            this.label2.Size = new System.Drawing.Size(37, 13);
             this.label2.TabIndex = 5;
-            this.label2.Text = "APELLIDOS";
+            this.label2.Text = "EDAD";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(258, 19);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(37, 13);
+            this.label3.Size = new System.Drawing.Size(54, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "EDAD";
+            this.label3.Text = "NOMBRE";
             // 
             // label4
             // 
